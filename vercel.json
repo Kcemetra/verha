@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://https://xlocr.us.ci/" }
+    { "source": "/(.*)", "destination": "https://xlocr.us.ci/" }
   ]
 }
